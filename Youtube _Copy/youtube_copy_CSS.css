@@ -62,13 +62,34 @@ body::-webkit-scrollbar {
     color: white;
     outline: none;
     border: 0.2vh solid #373737;
-    width: 35%;
+    width: 27%;
     height: 70%;
     margin-left: 20%;
     border-radius: 1px;
 }
 #pesquisa::placeholder{
     color: gray;
+}
+
+#pesquisar{
+    background: #373737;
+    outline: none;
+    border: 0.2vh solid #373737;
+    color: white;
+    height: 70%;
+    width: 4%;
+    cursor: pointer;
+}
+#voice{
+    background: #181818;
+    outline: none;
+    border: none;
+    border-radius: 100%;
+    color: white;
+    height: 4vh;
+    width: 4vh;
+    cursor: pointer;
+    margin-left: 0.5%;
 }
 
 .botaomenu{
