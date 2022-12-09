@@ -143,7 +143,6 @@ body::-webkit-scrollbar {
     background-color: #212121;
     color: white;
     display: block;
-    float: left;
 }
 
 .menu_lateral button{
